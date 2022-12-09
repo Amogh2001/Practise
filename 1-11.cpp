@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cmath>
 
+//This is a program to multiply a scalar with a matrix. It contains scalar
+//multiplication with 1D and 2D matrices.
+
 void multiply(double scalar, double* u, double* v, int n);
 //void multiply(double scalar, double** A, double** B, int n);
 

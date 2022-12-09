@@ -1,0 +1,3 @@
+/home/amogh01/practise/practise/build/CMakeFiles/exception_prac.dir
+/home/amogh01/practise/practise/build/CMakeFiles/edit_cache.dir
+/home/amogh01/practise/practise/build/CMakeFiles/rebuild_cache.dir

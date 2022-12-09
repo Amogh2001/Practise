@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exception_prac.dir/Exception_prac.cpp.o CMakeFiles/exception_prac.dir/exception_prac.cpp.o -o exception_prac 
